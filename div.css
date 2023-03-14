@@ -1,0 +1,96 @@
+//will be removed
+div {
+  font-family: "Calibri";
+  //background-color: lightgrey;
+  width: 80%;
+  //border: 1px solid green;
+  padding: 10px;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.common {
+  font-family: "Calibri";
+  //font-size: 105%;
+  font-size: 1.1rem ;
+  //background-color: lightgrey;
+  width: 80%;
+  //border: 1px solid green;
+  padding: 10px;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.title {
+	font-family:"Helvetica" ;
+	//font-size:xxx-large ;
+	font-size:3rem ;
+}
+
+a.green {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a.green:link {
+  color: #265301;
+}
+
+a.green:visited {
+  color: #437A16;
+}
+
+a.green:focus {
+  border-bottom: 1px solid;
+  background: #BAE498;
+}
+
+a.green:hover {
+  background: #CDFEAA;
+}
+
+a.green:active {
+  background: #265301;
+  color: #CDFEAA;
+}
+
+.code {
+    /* Below are styles for the codebox (not the code itself) */
+	border:0.1rem solid black;
+	background-color:#e5f7fa;
+	width:100%;
+	//overflow:auto;    
+	padding:0.8rem;
+	font-size:1rem;
+	font-family: "Consolas";
+	//white-space: pre-wrap;
+	overflow:auto;    
+	white-space: pre;
+}
+
+table {
+  border-collapse: collapse;
+}
+table td, table th {
+  border: 1px solid black;
+}
+table tr:first-child th {
+  border-top: 1px solid black;
+}
+table tr:last-child td {
+  border-bottom: 1px solid black;
+}
+table tr td:first-child,
+table tr th:first-child {
+  border-left: 1px solid black ;
+}
+table tr td:last-child,
+table tr th:last-child {
+  border-right: 1px solid black;
+}
+
+li {
+  line-height: 1.7;
+}
+
