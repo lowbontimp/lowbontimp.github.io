@@ -1,0 +1,4 @@
+sudo python3 -m http.server 80
+
+cp /mnt/e/KIGAM/Downloads/ggx515_supp/figureS07.eps fig/2018gji_figS7.eps
+gmt psconvert -Tg fig/2018gji_figS7.eps
