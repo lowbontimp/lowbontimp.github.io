@@ -90,7 +90,13 @@ table tr th:last-child {
   border-right: 1px solid black;
 }
 
+ol {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
 li {
-  line-height: 1.7;
+  //line-height: 1.4;
 }
 
