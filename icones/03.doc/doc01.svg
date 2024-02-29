@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="65mm"
+   height="63.878567mm"
+   viewBox="0 0 65 63.878567"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="doc01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="72.478446"
+     inkscape:cy="117.20295"
+     inkscape:window-width="1956"
+     inkscape:window-height="1477"
+     inkscape:window-x="1527"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.985715,-96.467852)">
+    <path
+       id="rect846"
+       style="fill:#ffffff;stroke:#2b579a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 114.48572,113.91071 v 45.43571 H 64.485712 V 97.467852 h 35.135714"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#a4bee5;fill-opacity:1;stroke:#2b579a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 99.620857,97.468 h -0.951999 v 17.384 h 15.817002 v -0.94129 z"
+       id="path3388"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.1667px;line-height:1.25;font-family:sans-serif;fill:#2b579a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="65.52504"
+       y="140.22295"
+       id="text29432"><tspan
+         sodipodi:role="line"
+         id="tspan29430"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#2b579a;fill-opacity:1;stroke-width:0.264583"
+         x="65.52504"
+         y="140.22295">DOC</tspan></text>
+  </g>
+</svg>
