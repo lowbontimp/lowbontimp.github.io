@@ -11,12 +11,14 @@ use warnings ;
 #my $link = qq|"https://doi.org/10.5281/zenodo.5797249"| ;
 #my $link = "papers/Lim et al. - 2024 - The 2022 Goesan earthquake of the moment magnitude.pdf" ;
 #my $link = "papers/Lim_etal_2024_JS.pdf" ;
-my $link = "Lim_etal_2024_JS_suppl.docs" ;
+#my $link = "Lim_etal_2024_JS_suppl.docs" ;
+my $link = "papers/Heo_etal_2024_GJ.pdf" ;
 
-#my $img = "icones/01.pdf/pdf01.svg" ;
-my $img = "icones/02.supp/supp01.svg" ;
+my $img = "icones/01.pdf/pdf01.svg" ;
+#my $img = "icones/02.supp/supp01.svg" ;
 
-my $alt = "Lim_etal_2024" ;
+#my $alt = "Lim_etal_2024" ;
+my $alt = "Heo_etal_2024" ;
 
 my $width = "35" ;
 
